@@ -1,0 +1,5 @@
+Test Nummer 1
+MCTS - Tiefe: 5 | Zug: ((7, 9), (8, 9), (5, 6)) | Iteration Count: 143 | Eval of this Move: 27.990091145833333 | Zeit: 15.029375791549683
+Alpha Beta - Tiefe: 5 | Zug: ((7, 9), (8, 9), (5, 6)) | Iteration Count: 2710285 | Eval of this Move: 27.990091145833333 | Zeit: 4615.603005886078
+PVS - Tiefe: 5 | Zug: ((8, 5), (6, 3), (5, 3)) | Iteration Count: 986789 | Eval of this Move: 24.444453125 | Zeit: 1611.3071265220642
+MTD-f - Tiefe: 5 | Zug: ((7, 9), (8, 9), (5, 6)) | Iteration Count: 1444942 | Eval of this Move: 27.990091145833333 | Zeit: 2491.2322850227356
